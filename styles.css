@@ -1,9 +1,9 @@
 .holder{
 	width:100vw;
 	height:100vh;
-	diaplay:flex;
+	display:flex;
 	justify-content:center;
-	align-content:center;
+	align-items:center;
 }
 
 .item-1{
